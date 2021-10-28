@@ -1,0 +1,5 @@
+ 5 Modification Interface: 
+	 discuss
+ 4 Controle saisie Discussion
+ 3 ajout Bouton Info
+ 
